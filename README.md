@@ -1,4 +1,4 @@
-# Charming.py: Character Terminal Art Programing
+# Charming.py: Character Terminal Art Programming
 
 Charming.py is a creative coding language designed for **Character Terminal Art Programming**.
 
