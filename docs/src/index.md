@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "gh2"
   text: "The Python library for creative ASCII art and poetic form"
-  tagline: Create computational letterforms like P5.js, or the best way to learn Python for having fun
+  tagline: Create computational letterforms in the style of P5, or the best way to learn Python for having fun
   actions:
     - theme: brand
       text: Get Started
