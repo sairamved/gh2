@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "gh2"
-  text: "The Python library for creative ASCII art and poetic form"
+  text: "A Python library for creative ASCII art and poetic form"
   tagline: Create computational letterforms in the P5 style or explore the most fun way to learn Python
   actions:
     - theme: brand
