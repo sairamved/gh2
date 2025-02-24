@@ -1,6 +1,6 @@
 # Get Started
 
-## Try gh2 online
+## Try gh2 online 🛝
 
 You can try VitePress directly in your browser on gh's [Online Eidtor](https://editor.gh2.dev/).
 
